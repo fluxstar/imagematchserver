@@ -24,3 +24,4 @@ clean:
 
 outdir:
 	mkdir -p $(OUTPUTDIR)
+	mkdir -p $(OUTPUTDIR)/img
